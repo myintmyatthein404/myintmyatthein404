@@ -29,6 +29,8 @@ jobs:
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: dev.to
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_tweets: yes
